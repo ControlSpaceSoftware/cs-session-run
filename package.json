@@ -1,6 +1,6 @@
 {
 	"name": "cs-session-run",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "given a driver, query and params call driver.session().run(query, params)",
 	"main": "lib/index.js",
 	"scripts": {
